@@ -1,0 +1,4 @@
+﻿  Chunk.cpp
+C:\Users\snowraph\Documents\GameDev\Minecraft_OpenglCPP\Projet3d\src\Shader.h(42,14): warning C4101: 'infoLog': unreferenced local variable
+C:\Users\snowraph\Documents\GameDev\Minecraft_OpenglCPP\Projet3d\src\Shader.h(60,14): warning C4101: 'infoLog': unreferenced local variable
+  Projet3d.vcxproj -> C:\Users\snowraph\Documents\GameDev\Minecraft_OpenglCPP\Debug\Projet3d.exe
